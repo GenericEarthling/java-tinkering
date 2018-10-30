@@ -2,7 +2,7 @@
  *  Nautical miles
  *  Given the latitude and longitude (in degrees) of two points compute
  *  the great circle distance (in nautical miles) between them. The
- *  following formula assumes that sin, cos, and arcos are comptued
+ *  following formula assumes that sin, cos, and acos are computed
  *  in degrees, so need to convert back and forth between radians.
  *
  *     d  = 60 * acos (sin(L1)*sin(L2) + cos(L1)*cos(L2)*cos(G1 - G2))
