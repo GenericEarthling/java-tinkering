@@ -1,5 +1,5 @@
 
-package Algorithms;
+package practice;
 
 public class MagicNumbers {
 

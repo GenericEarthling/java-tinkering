@@ -35,7 +35,7 @@ Examples:
     Trap "1 unit" between first 1 and 2, "4 units" between
     first 2 and 3 and "1 unit" between second last 1 and last 2 
  */
-package Algorithms;
+package practice;
 
 public class FindCapacityInAnArray {
 

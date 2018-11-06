@@ -1,5 +1,5 @@
 // this only works if the numbers are in numeric order
-package Algorithms;
+package practice;
 
 // Java implementation of recursive Binary Search 
 class BinarySearch { 
